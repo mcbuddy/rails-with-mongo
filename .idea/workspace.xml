@@ -9,7 +9,7 @@
     <file path="/Dummy.txt" changelist="edbe1ce3-4850-41a2-a21e-58f0bcd1dc95" time="1375037108176" ignored="false" />
     <file path="/Gemfile" changelist="edbe1ce3-4850-41a2-a21e-58f0bcd1dc95" time="1374616902901" ignored="false" />
     <file path="/application.rb" changelist="edbe1ce3-4850-41a2-a21e-58f0bcd1dc95" time="1374618917008" ignored="false" />
-    <file path="/README.rdoc" changelist="edbe1ce3-4850-41a2-a21e-58f0bcd1dc95" time="1375037630954" ignored="false" />
+    <file path="/README.rdoc" changelist="edbe1ce3-4850-41a2-a21e-58f0bcd1dc95" time="1375037686170" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.rdoc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.040598292">
+            <state line="1" column="60" selection-start="81" selection-end="81" vertical-scroll-proportion="0.040598292">
               <folding />
             </state>
           </provider>
@@ -694,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.rdoc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.040598292">
+        <state line="1" column="60" selection-start="81" selection-end="81" vertical-scroll-proportion="0.040598292">
           <folding />
         </state>
       </provider>

@@ -1,1 +1,1 @@
-Rails tutorial using MongoDB for databse insted of regular Relational Database.
+Rails tutorial using MongoDB for databse instead of regular Relational Database.
