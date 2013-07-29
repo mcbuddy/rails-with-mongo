@@ -5,10 +5,14 @@ class User
   # :lockable, :timeoutable and :omniauthable
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :trackable, :validatable
+  #attr_accesible :name, :email, :password, :password_confirmation, :remember_me
+
 
   ## Database authenticatable
   field :email,              :type => String, :default => ""
   field :encrypted_password, :type => String, :default => ""
+  field :name
+  validates :name, :email , :presence => true, :uniqueness => true
   
   ## Recoverable
   field :reset_password_token,   :type => String
